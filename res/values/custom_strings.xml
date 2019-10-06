@@ -45,4 +45,8 @@
 
     <!-- Font size -->
     <string name="font_size_title">Font size</string>
+
+    <!-- Folder titles -->
+    <string name="google_folder_title" translatable="false">Google</string>
+
 </resources>
