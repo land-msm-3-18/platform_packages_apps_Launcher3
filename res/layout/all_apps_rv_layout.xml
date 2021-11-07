@@ -23,4 +23,5 @@
     android:layout_marginTop="24dp"
     android:clipToPadding="false"
     android:descendantFocusability="afterDescendants"
-    android:focusable="true" />
+    android:focusable="true"
+    android:layout_marginTop="24dp" />
